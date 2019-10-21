@@ -1,5 +1,4 @@
-# core
-"Loc 36 Core" versions
+# core: "Loc 36 Core" versions
 
 __v0.1.0__
 
