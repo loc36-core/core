@@ -2,6 +2,5 @@
 
 __v0.1.0__
 
-* Database version: v0.1.0
-* SDS version: v0.1.0
-* Lib version: v0.1.0
+* Database version: v0.2.0
+* SDS version: v0.3.0
